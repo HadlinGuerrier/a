@@ -1,0 +1,24 @@
+[
+  {
+    "lastName": "Naioo",
+    "firstName": "Adjinie",
+    "password": "1234",
+    "classe": "Ns3",
+    "email": "hadlinguerrier@gmail.com",
+    "ecole": "se",
+    "telephone": "5555",
+    "appointmentDate": "2024-09-29",
+    "appointmentTime": "16:32"
+  },
+  {
+    "lastName": "Naioo",
+    "firstName": "Adjinie",
+    "password": "1234",
+    "classe": "Ns3",
+    "email": "hadlinguerrier@gmail.com",
+    "ecole": "se",
+    "telephone": "5555",
+    "appointmentDate": "2024-09-20",
+    "appointmentTime": "16:39"
+  }
+]
